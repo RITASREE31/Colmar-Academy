@@ -20,6 +20,10 @@ This project was created with:
 ![Colmar Academy Screen Recording](resources/images/colmar-academy-screen-recording.gif)
 ![Project Image 1](resources/images/project-image-1.jpg)
 
+## Project Link 
+
+https://ritasree31.github.io/Colmar-Academy/colmar-academy-master/index.html
+
 ## Status
 
 This project has been completed.
